@@ -20,7 +20,7 @@ public class ExerciciosJavaLacosDeRepeticao {
             }
         }
 
-        
+
         //Exercico02
         int numero, contePares = 0, conteImpares = 0;
 

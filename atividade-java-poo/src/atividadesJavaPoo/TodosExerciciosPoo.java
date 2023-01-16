@@ -15,7 +15,7 @@ public class TodosExerciciosPoo {
 
         System.out.println("\n\nExibindo cliente 1: " + cliente1.visualizar());
         System.out.println("\nExibindo cliente 2: " + cliente2.visualizar());
-        
+
         //Exercicio 02
         Funcionario funcionario1 = new Funcionario("123456", "Ewerton", "Soares",
                 "Silva", 2.200F);
